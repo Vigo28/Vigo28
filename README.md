@@ -8,7 +8,7 @@ I'm a HBO-ICT student from the Netherlands exploring the world of **Data Science
 - 🎓 HBO-ICT student with a growing interest in **Data & AI**  
 - 📘 Currently following the **Minor Data Science at Zuyd Hogeschool**  
 - 🧪 Still discovering what part of data I enjoy most, from analysis to ML  
-- 💡 Logical thinker — once the concept is clear, I know where to go  
+- 💡 Logical thinker, once the concept is clear, I know where to go  
 - 🌱 Open, curious, casual and always improving step-by-step  
 
 
@@ -54,7 +54,7 @@ My goal is to build real-world projects, improve my data skills, and grow into s
 ## 😄 Fun Facts About Me
 
 - I like solving logical problems once I understand the bigger picture  
-- I enjoy learning new tech without rushing — step by step  
+- I enjoy learning new tech without rushing, step by step  
 - I’m casually exploring where I fit best in the data world  
 
 
