@@ -2,17 +2,15 @@
 
 I'm a HBO-ICT student from the Netherlands exploring the world of **Data Science, Analytics and AI**. I’m still finding my path in the data world, but I'm motivated, curious, and convinced that data & AI are a big part of the future, and I want to be part of that.
 
----
 
 ## 🚀 About Me
 
 - 🎓 HBO-ICT student with a growing interest in **Data & AI**  
 - 📘 Currently following the **Minor Data Science at Zuyd Hogeschool**  
 - 🧪 Still discovering what part of data I enjoy most, from analysis to ML  
-- 💡 Logical thinker, once the concept is clear, I know where to go  
+- 💡 Logical thinker — once the concept is clear, I know where to go  
 - 🌱 Open, curious, casual and always improving step-by-step  
 
----
 
 ## 🛠️ Skills & Tools
 
@@ -33,38 +31,37 @@ I'm a HBO-ICT student from the Netherlands exploring the world of **Data Science
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
----
-
-## 🧩 Projects
-
-### **📌 Pattern Recognition for Healthcare**
-A project for my studies where we built a **pattern recognition prototype** for the healthcare domain.  
-- Limited test data prevented training a neural network  
-- We designed a **rule-based system** as the best possible solution at the time  
-- Learned a lot about data limitations, realistic model design, and problem-solving
-
-*(More projects coming as I expand my experience in data science!)*
-
----
 
 ## 🎯 What I Want to Achieve
 
 I'm exploring the data world and figuring out what fits me best, from analytics to machine learning.  
 My goal is to build real-world projects, improve my data skills, and grow into someone who can turn data into useful insights and solutions.
 
----
 
 ## 🧠 Currently Learning
 
 - Minor Data Science @ Zuyd Hogeschool  
 
----
+
+## 🔭 Tools I Want to Learn
+
+- Docker (for reproducible data workflows)  
+- Scikit-Learn (for ML models)  
+- Power BI or Tableau (for dashboards)  
+- Advanced SQL  
+
+
+## 😄 Fun Facts About Me
+
+- I like solving logical problems once I understand the bigger picture  
+- I enjoy learning new tech without rushing — step by step  
+- I’m casually exploring where I fit best in the data world  
+
 
 ## 📈 GitHub Stats
 
 ![Vigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vigo28&show_icons=true&theme=tokyonight)
 
----
 
 ## 📫 Let's Connect!
 
